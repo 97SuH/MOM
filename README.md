@@ -1,5 +1,5 @@
-# MOM
-인력투입현황 대시보드
+# M/M
+Man-Month Dash Board
 
 # Table
 ![image](https://user-images.githubusercontent.com/56239516/100054680-e1373b80-2e65-11eb-99f2-1949d686d1fe.png)
