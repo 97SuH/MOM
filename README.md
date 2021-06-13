@@ -1,11 +1,7 @@
 # M/M
-## Java
-## JavaScript
-## Spring
-## MariaDB
 Man-Month Dash Board
 
-# Table
+# Main
 ![image](https://user-images.githubusercontent.com/56239516/100054680-e1373b80-2e65-11eb-99f2-1949d686d1fe.png)
 
 # CHART
