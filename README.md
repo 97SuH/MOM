@@ -1,5 +1,5 @@
 # 📊 M/M
-* Man-Month Dash Board
+* Man-Month Dash Board를 시각적 통계로 제공합니다.
 * Neighbor System(주) 인턴 프로젝트 입니다. (2020.09 ~ 2020.11)
 
 # 🎯 사용 기술
