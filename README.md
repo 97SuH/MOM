@@ -4,7 +4,7 @@
 
 # 🎯 사용 기술
 * Java
-* Oracle
+* Mysql
 * JavaScript
 * Spring
 
